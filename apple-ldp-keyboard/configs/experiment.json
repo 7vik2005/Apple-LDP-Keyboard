@@ -1,0 +1,23 @@
+{
+  "seed": 42,
+  "dictionary_size": 500,
+  "epsilon_values": [
+    0.5,
+    1,
+    2,
+    4,
+    8
+  ],
+  "user_counts": [
+    100,
+    500,
+    1000,
+    5000,
+    10000
+  ],
+  "cms": {
+    "m": 128,
+    "k": 128
+  },
+  "repetitions": 20
+}

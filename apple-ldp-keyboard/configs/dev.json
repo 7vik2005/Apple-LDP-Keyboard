@@ -1,0 +1,11 @@
+{
+  "seed": 42,
+  "dictionary_size": 50,
+  "num_users": 1000,
+  "epsilon": 2.0,
+  "cms": {
+    "m": 32,
+    "k": 16
+  },
+  "repetitions": 3
+}

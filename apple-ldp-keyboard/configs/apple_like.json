@@ -1,0 +1,10 @@
+{
+  "seed": 42,
+  "dictionary_size": 2600,
+  "epsilon": 4,
+  "cms": {
+    "m": 1024,
+    "k": 65536
+  },
+  "repetitions": 5
+}

@@ -1,0 +1,30 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Test cache
+.pytest_cache/
+
+# Jupyter (must never be present in this project)
+.ipynb_checkpoints/
+*.ipynb
+
+# Generated results (not tracked in version control)
+results/logs/
+results/csv/
+results/plots/
+results/report/
+
+# Generated data (reproducible from main.py --run-final)
+data/generated/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
